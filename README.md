@@ -3,7 +3,6 @@
 ## Part 1: Markdown Practice
 
 The first part of this studio is practice with Markdown. Complete each of the following exercises:
-
 You can preview what your Markdown file will look like when styles are added by using Particle Desktop's Markdown Preview feature. To do so:
 1. Go to the `Packages` Menu.
 1. Select the `Markdown Preview` submenu.
